@@ -18,7 +18,7 @@ The design of the navigation menu items will follow the C.R.A.P. design principl
   The menu items will be grouped by the app’s functionalities, which enable user to better understand the app features and structure.
 
 After initial analysis, the Fishy Bank Expense Tacking app will have 4 key functional layouts, which can be accessed from 4 main menu icons. The app will use the bottom tab navigation method, there will have 4 fixed icons located at the bottom of the screen. This strategy enables users to access to our app functions quickly and easily, which best fit to our app and matches with our goal. The following is the sample layout:
-![SampleLayout](https://raw.githubusercontent.com/cathysunkc/MobileApp/0b0b5b27f4c3b699730ae794c2d8fb5241a2e0ae/sample_layout.png)
+![SampleLayout](https://raw.githubusercontent.com/cathysunkc/MobileApp/8bd3a8957a74fbfb0ae48c64c00a999220a63418/project_phase2/sample_layout.png)
 
 ## Status
 
