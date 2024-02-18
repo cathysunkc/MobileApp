@@ -15,7 +15,7 @@ The purpose of this ADR is to review the existing requirements for developing a 
 After analysis, the following are the proposed architectural decisions for the retail app:
 
 - **App Type:** -
-  It is proposed to develop a **hybrid app** for the retail company. The reason is a hybrid app could run on varies operation systems and devices, include laptops, tablets, and mobile phones, on both online and offline mode, which would help the retail app to expand the customer base and user types.
+  It is proposed to develop a **Hybrid App** for the retail company. The reason is a hybrid app could run on varies operation systems and devices, include laptops, tablets, and mobile phones, on both online and offline mode, which would help the retail app to expand the customer base and user types.
 - **UI Framework** -
   It is suggested to use **React Native** as the UI framework because the libraries of React Native are compatible and reusable for cross-platform devices (such as iOS and Android), which could save development time for building the hybrid app. Besides, the React Native components are capable to load and show particular images on the app screen, either from local or remote sources, which could help the retail app to display product images with optimize performances.
 - **Backend Language** -
