@@ -25,7 +25,7 @@ After analysis, the following are the proposed architectural decisions for the r
 - **Data Storage** -
   **MongoDB** as database platform which could be seamlessly execute with React Native and Node.js. Besides, MongoDB could handle massive data and with build-in tool to generate visualize dashboard. Its Realm Sync feature could support both offline data sync or online cloud storage, which matches the app requirements.
 - **Permissions** -
-  The following are permissions require to use the retail app:
+  The following permissions would be required to use the retail app:
   1. **Location** - enable the app to show different language and cultural preferences according to user's location.
   2. **Notification** - enable the app to push notification to customer about new products and special offers.
   3. **SMS** - enable the app to send SMS to customer about order and delivery status.
@@ -38,4 +38,4 @@ After analysis, the following are the proposed architectural decisions for the r
 
 ## Consequences
 
-Based on above proposed architectural decisions, we believe the use of M.E.R.N. stack (MongoDB, Express.js, React, and Node.js), PayPal, and with the predefined data collection and user permission policies would help to develop a scalable and robust mobile app for the retail company. The app would support both online and offline mode, enable push notifications, integrate with secure payment method, capable to track user behavior, with optimize performance, and be expandable and scalable to international customer base.
+Based on above proposed architectural decisions, we believe the use of M.E.R.N. stack (MongoDB, Express.js, React, and Node.js), PayPal, and with the predefined data collection and permission policies would help to develop a scalable and robust mobile app for the retail company. The app would support both online and offline mode, enable push notifications, integrate with secure payment method, capable to track user behavior, with optimize performance, and be expandable and scalable to international customer base.
